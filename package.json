@@ -47,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "jest-html-reporters": "^2.1.2"
+    "jest-html-reporter": "^3.3.0"
   }
 }
-
